@@ -32,6 +32,8 @@ Alternatively, merely copy `hexviewer.js` and run it with node, specifying the a
 node hexviewer.js /absolute/path/to/file.css
 ```
 
+Open `localhost:3000` in your browser.
+
 License
 ----
 
