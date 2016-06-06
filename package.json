@@ -1,0 +1,28 @@
+{
+  "name": "hex-viewer",
+  "version": "1.0.0",
+  "description": "Extract all hex value and view colors in local server.",
+  "main": "hexviewer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/matt-mcdaniel/hewviewer.git"
+  },
+  "keywords": [
+    "hex",
+    "viewer",
+    "color"
+  ],
+  "author": "Matt McDaniel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matt-mcdaniel/hewviewer/issues"
+  },
+  "homepage": "https://github.com/matt-mcdaniel/hewviewer#readme",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "lodash": "^4.13.1"
+  }
+}
