@@ -1,5 +1,5 @@
 {
-  "name": "hex-viewer",
+  "name": "hexviewer",
   "version": "1.0.0",
   "description": "Extract all hex value and view colors in local server.",
   "main": "hexviewer.js",
