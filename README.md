@@ -7,6 +7,11 @@ Clone the repository and change working directory.
 git@github.com:matt-mcdaniel/hexviewer.git && cd hexviewer
 ```
 
+Install dependencies.
+```
+npm install
+```
+
 Run `hexviewer.js` with the path to the file as your argument.
 ```
 node hexviewer.js /absolute/path/to/file.tmTheme
